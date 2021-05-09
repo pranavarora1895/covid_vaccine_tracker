@@ -1,4 +1,5 @@
 ''' GET UPDATED WITH THE COVID VACCINATION CENTERS IN INDIA
+    You can run the .exe file attached in the files
     -- PROJECT BY PRANAV ARORA
 '''
 
