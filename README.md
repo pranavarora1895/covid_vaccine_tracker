@@ -1,4 +1,4 @@
-# Covid-19 Vaccine Tracker
+# Covid-19 Vaccine Tracker https://forthebadge.com/images/badges/made-with-python.svg
 Get Updated with the COVID Vaccination Centers in India
 
 > ### To run the software, simply double click on the **CowinTracker.exe**.
