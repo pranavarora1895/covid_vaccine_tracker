@@ -19,9 +19,9 @@ OR
 
 Dont Delete Any Files.. IT MAY CRASH THE SOFTWARE!
 
-**NOTE** - A file will be created in the same folder where the software exists. This file will contain the information of all COVID-19 Vaccination centers which you found by using CowinTracker.
-
 ```Start The Software Using CowinTracker.exe File!```
+
+**NOTE** - A file will be created in the same folder where the software exists. This file will contain the information of all COVID-19 Vaccination centers which you found by using CowinTracker.
 
 * Follow Me On Instagram at [Pranav Arora](https://www.instagram.com/arorapranav187)
 * Lets Get Connected on Linkedin at [Pranav Arora](https://www.linkedin.com/in/pranav-arora-354b71bb/)
