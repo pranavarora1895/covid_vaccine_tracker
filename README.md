@@ -19,6 +19,8 @@ OR
 
 Dont Delete Any Files.. IT MAY CRASH THE SOFTWARE!
 
+**NOTE** - A FILE WILL BE CREATED AND STORED IN THE SAME FOLDER WHERE THE SOFTWARE EXISTS, WHICH WILL CONTAIN ALL THE VACCINATION CENTERS WHICH YOU FOUND BY USING CowinTracker.
+
 ```Start The Software Using CowinTracker.exe File!```
 
 * Follow Me On Instagram at [Pranav Arora](https://www.instagram.com/arorapranav187)
