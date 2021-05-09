@@ -25,4 +25,4 @@ Dont Delete Any Files.. IT MAY CRASH THE SOFTWARE!
 * Lets Get Connected on Linkedin at [Pranav Arora](https://www.linkedin.com/in/pranav-arora-354b71bb/)
 
 
-### ThankYou!
+### ThankYou! Stay Home. Stay Safe!!
