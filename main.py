@@ -1,6 +1,8 @@
-''' GET UPDATED WITH THE COVID VACCINATION CENTERS IN INDIA
+''' GET UPDATED WITH THE COVID-19 VACCINATION CENTERS IN INDIA
     You can run the .exe file attached in the files
     -- PROJECT BY PRANAV ARORA
+
+    STAY HOME. STAY SAFE
 '''
 
 from cowin_api import CoWinAPI
